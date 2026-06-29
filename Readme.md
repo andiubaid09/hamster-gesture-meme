@@ -1,6 +1,6 @@
-# Gesture Meme
+# Hamster Gesture Meme
 
-Gesture Meme adalah aplikasi **Computer Vision** berbasis Python yang mendeteksi gesture tangan secara *real-time* menggunakan webcam dan menampilkan gambar meme hamster yang sesuai dengan gesture yang dikenali.
+Hamster Gesture Meme adalah aplikasi **Computer Vision** berbasis Python yang mendeteksi gesture tangan secara *real-time* menggunakan webcam dan menampilkan gambar meme hamster yang sesuai dengan gesture yang dikenali.
 
 Aplikasi ini memanfaatkan **MediaPipe Hands** untuk mendeteksi landmark tangan, kemudian menggunakan pendekatan **Rule-Based Gesture Recognition** untuk mengklasifikasikan gesture berdasarkan posisi setiap jari. Setelah gesture dikenali, aplikasi akan menampilkan gambar meme hamster pada jendela terpisah.
 
