@@ -123,7 +123,7 @@ Gesture-Meme/
 ## Clone repository
 
 ```bash
-git clone https://github.com/andiubaid09/gesture-meme.git
+git clone https://github.com/andiubaid09/hamster-gesture-meme.git
 ```
 
 ## Masuk ke folder proyek
